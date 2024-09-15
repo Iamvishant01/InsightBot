@@ -22,7 +22,7 @@ To set up InsightBot locally, follow these steps:
 
 1. *Clone the repo*:
    ```bash
-   git clone https://github.com/Iamvishant01/insightbot.git
+   git clone https://github.com/Iamvishant01/InsightBot.git
    
 3. *Install dependencies:*
    ```bash
