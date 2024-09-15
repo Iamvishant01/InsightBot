@@ -1,71 +1,62 @@
-# Getting Started with Create React App
+# 🧠 InsightBot
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+*InsightBot* is an AI-powered chatbot built with React, Vite, and Google Gemini API. It delivers real-time, context-aware responses for user queries. InsightBot offers a fast, intuitive interface with seamless AI integration, making it ideal for dynamic conversations.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 💡 Features
+- *Fast & Responsive*: Built with React and Vite for lightning-fast performance.
+- *Google Gemini API*: Utilizes advanced AI to provide accurate and intelligent responses.
+- *User-Friendly Interface*: Simple and clean design for smooth user interactions.
+- *Real-time Insights*: Dynamic, context-aware conversations.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🌟 Kyun Banaya? (Why We Built It)
+Aaj ke zamane mein, AI kaafi powerful hai aur humein iska best use karna chahiye. *InsightBot* banane ka maksad tha ek aisa chatbot create karna jo intelligent ho aur users ko valuable insights de sake. Hamne isme React aur Vite ka use kiya taaki speed aur performance top-notch rahe, aur Google Gemini API ko integrate kiya for best conversational experiences. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 📋 Setup & Installation
+To set up InsightBot locally, follow these steps:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. *Clone the repo*:
+   ```bash
+   git clone https://github.com/Iamvishant01/insightbot.git
+   
+3. *Install dependencies:*
+   ```bash
+   cd insightbot
+   npm install
+   
+4. *Replace process.env.API-KEY to your process.env.YOUR_GEMINI_API_KEY*
+   
+5. *Start the Developement Server*
+   ```bash
+   npm start
 
-### `npm run build`
+### 🛠️ How It Works
+InsightBot uses Google Gemini API to understand and respond to user queries in real-time. React ensures a smooth and responsive UI, while Vite provides an optimized development experience. The bot is designed to handle different types of questions and give meaningful answers instantly.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[InsightBot.webm](https://github.com/user-attachments/assets/f20a1a89-26ed-4bc9-8475-beb400accc5e)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### 📝 Hinglish Baat-Cheet
+Ye bot banaaya gaya hai aapki queries ko easily samajhne aur jaldi se jawab dene ke liye. Aap jo bhi puchhenge, InsightBot aapko ek smart aur logical reply dega. To aap kisi bhi topic par baat kar sakte ho, aur InsightBot aapki madad karne ke liye ready rahega!
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 💻 Tech Stack
+React: For building the user interface.
+Vite: For a faster build and hot-reloading development.
+Google Gemini API: For AI-driven conversational intelligence.
+CSS/Styled-Components: For designing a clean and modern UI.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 🧭 How to Use
+Open the live demo by clicking the button above.
+Enter your query or conversation topic in the chatbox.
+Watch as InsightBot responds with meaningful answers in real-time!
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# InsightBot
+### 📞 Contact
+For any queries or issues, contact me at:
+iamvishant01@gmail.com
+GitHub: Iamvishant01
