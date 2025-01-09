@@ -1,5 +1,7 @@
 # 🧠 InsightBot
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://innsightbot.vercel.app/)
+
 *InsightBot* is an AI-powered chatbot built with React, Vite, and Google Gemini API. It delivers real-time, context-aware responses for user queries. InsightBot offers a fast, intuitive interface with seamless AI integration, making it ideal for dynamic conversations.
 
 ---
