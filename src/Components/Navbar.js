@@ -15,7 +15,7 @@ export default function Navbar() {
           <a className="nav-link " aria-current="page" href="/">Docs</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="https://linktr.ee/iamvishant01" target='about_blank'>Devloper's Contact</a>
+          <a className="nav-link" href="https://linktr.ee/iamvishant02" target='about_blank'>Devloper's Contact</a>
         </li>
         <li className="nav-item dropdown">
           <a className="nav-link dropdown-toggle" href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
